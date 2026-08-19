@@ -16,7 +16,7 @@ A small, floating, always-on-top desktop widget that shows your live heart rate 
 ## Download (Windows)
 1. Go to the [Releases](https://github.com/LordPerkyy/HeartRateWidget/releases) page
 2. Download the latest `HeartRateWidget.exe`
-3. Run it (Windows may show a SmartScreen warning the first time — click "More info" → "Run anyway")
+3. Run it (Windows may show a SmartScreen warning the first time - click "More info" → "Run anyway")
 
 ##Notes
 The device can only stream to one client at a time. Close Google Fit / Fitbit app on your phone first.
