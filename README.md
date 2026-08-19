@@ -20,3 +20,8 @@ A small, floating, always-on-top desktop widget that shows your live heart rate 
 ```bash
 pip install bleak
 python widget_heart_rate_6.0.py
+
+optional arguments
+python widget_heart_rate_6.0.py --max-hr 190
+python widget_heart_rate_6.0.py --name Fitbit
+python widget_heart_rate_6.0.py --console
