@@ -16,6 +16,13 @@ A small, floating, always-on-top desktop widget that shows your live heart rate 
 2. Download the latest `HeartRateWidget.exe`
 3. Run it (Windows may show a SmartScreen warning the first time — click "More info" → "Run anyway")
 
+##Notes
+The device can only stream to one client at a time. Close Google Fit / Fitbit app on your phone first.
+On Windows the app automatically tries to unpair any stale "Fitbit" connection so scanning works reliably.
+Change DEFAULT_MAX_HR near the top of the script to set your own max heart rate.
+
+
+
 ## Run from source
 ```bash
 pip install bleak
