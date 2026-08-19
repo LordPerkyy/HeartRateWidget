@@ -2,7 +2,9 @@
 
 A small, floating, always-on-top desktop widget that shows your live heart rate from any Bluetooth LE heart rate device (Fitbit Air, chest straps, etc.).
 
-![Widget Preview](Screenshots/1.png)   ← screenshot
+![Widget Preview](Screenshots/1.png)   
+![Widget Preview](Screenshots/2.png) 
+![Widget Preview](Screenshots/3.png) 
 
 ## Features
 - Compact floating widget (no title bar)
